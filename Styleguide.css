@@ -30,10 +30,20 @@ html {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+    border: solid 2px #A43D47;
 }
 #navbar a:hover{
     background-color: #CCA266;
     color: white;
+    border: solid 2px white;
+}
+#selected a{
+    background-color: #CCA266;
+    border: solid 2px #CCA266;
+}
+#selected a:hover {
+    background-color: #CCA266;
+    border: solid 2px #CCA266;
 }
 #footer {
     overflow: hidden;
@@ -78,6 +88,11 @@ p {
     font-weight: 400;
     font-size: 30px;
     color: #364733;
+}
+#extLink {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-weight: 400;
+    font-size: 30px;
 }
 figcaption {
     font-family: 'Roboto Condensed', sans-serif;
