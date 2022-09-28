@@ -86,7 +86,7 @@ h1 {
 p {
     font-family: 'Roboto Condensed', sans-serif;
     font-weight: 400;
-    font-size: 30px;
+    font-size: 40px;
     color: #364733;
 }
 #extLink {
@@ -100,8 +100,8 @@ figcaption {
     text-align: center;
 }
 img {
-    width: 200px;
-    height: 200px;
+    width: 400px;
+    height: 300px;
     display: inline;
 }
 .landingLeft, .landingRight {
