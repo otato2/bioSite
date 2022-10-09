@@ -3,7 +3,7 @@ html {
 }
 #navbar {
     overflow: hidden;
-    position: absolute;
+    position: fixed;
     background-color: #A43D47;
     border-bottom: 15px solid #CCA266;
     top: 0;
@@ -157,4 +157,7 @@ img {
 }
 #spacer {
     padding: 40px;
+}
+.padding {
+    padding-top: 100px;
 }
